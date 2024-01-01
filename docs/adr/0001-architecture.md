@@ -41,3 +41,5 @@ Tradeoffs:
 
 - In-memory storage is process-local and non-durable.
 - Dispatcher is intentionally simple (single worker loop in this scaffold).
+
+- Changelog: minor updates.
