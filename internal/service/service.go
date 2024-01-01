@@ -51,3 +51,5 @@ func (s *Service) EventsSince(seq int64) []runstore.RunEvent {
 func (s *Service) Subscribe() (<-chan runstore.RunEvent, func()) {
 	return s.store.Subscribe()
 }
+
+// Refinement.
