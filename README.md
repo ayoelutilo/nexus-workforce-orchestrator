@@ -55,3 +55,5 @@ curl -N http://localhost:8080/v1/events/stream
 ```bash
 make test
 ```
+
+- Changelog: minor updates.
