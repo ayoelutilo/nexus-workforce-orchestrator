@@ -80,7 +80,3 @@ func (d *Dispatcher) handleRun(ctx context.Context, runID string) error {
 	_, err := d.svc.Complete(runID, d.workerID, finalStatus)
 	return err
 }
-
-// Refinement.
-
-// Refinement.

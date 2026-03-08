@@ -142,7 +142,3 @@ func TestCompleteRunHonorsQueuedCancelIntent(t *testing.T) {
 		t.Fatalf("expected queued cancel to win, got %s", completed.Status)
 	}
 }
-
-// Refinement.
-
-// Refinement.

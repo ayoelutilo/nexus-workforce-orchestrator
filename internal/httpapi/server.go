@@ -258,7 +258,3 @@ func writeJSON(w http.ResponseWriter, statusCode int, payload any) {
 func writeError(w http.ResponseWriter, statusCode int, message string) {
 	writeJSON(w, statusCode, map[string]any{"error": message})
 }
-
-// Refinement.
-
-// Refinement.

@@ -448,7 +448,3 @@ func copyEvent(in RunEvent) RunEvent {
 	}
 	return out
 }
-
-// Refinement.
-
-// Refinement.
