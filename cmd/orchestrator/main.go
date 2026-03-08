@@ -9,10 +9,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/oss-showcase/nexus-workforce-orchestrator/internal/dispatcher"
-	"github.com/oss-showcase/nexus-workforce-orchestrator/internal/httpapi"
-	"github.com/oss-showcase/nexus-workforce-orchestrator/internal/runstore"
-	"github.com/oss-showcase/nexus-workforce-orchestrator/internal/service"
+	"github.com/ayoelutilo/nexus-workforce-orchestrator/internal/dispatcher"
+	"github.com/ayoelutilo/nexus-workforce-orchestrator/internal/httpapi"
+	"github.com/ayoelutilo/nexus-workforce-orchestrator/internal/runstore"
+	"github.com/ayoelutilo/nexus-workforce-orchestrator/internal/service"
 )
 
 func main() {

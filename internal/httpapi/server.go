@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/oss-showcase/nexus-workforce-orchestrator/internal/runstore"
-	"github.com/oss-showcase/nexus-workforce-orchestrator/internal/service"
+	"github.com/ayoelutilo/nexus-workforce-orchestrator/internal/runstore"
+	"github.com/ayoelutilo/nexus-workforce-orchestrator/internal/service"
 )
 
 type Server struct {

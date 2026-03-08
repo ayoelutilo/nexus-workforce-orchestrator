@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/oss-showcase/nexus-workforce-orchestrator/internal/runstore"
+	"github.com/ayoelutilo/nexus-workforce-orchestrator/internal/runstore"
 )
 
 type Service struct {
