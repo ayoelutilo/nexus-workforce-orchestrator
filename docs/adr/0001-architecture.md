@@ -43,3 +43,5 @@ Tradeoffs:
 - Dispatcher is intentionally simple (single worker loop in this scaffold).
 
 - Changelog: minor updates.
+
+- Changelog: minor updates.
